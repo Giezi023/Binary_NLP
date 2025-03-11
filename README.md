@@ -69,11 +69,3 @@ This command will install all the dependencies listed in the `requirements.txt` 
     ```
 
     You may need to modify the `main.py` script to specify the input data file or other parameters.
-
-## Contributing
-
-Contributions are welcome! If you find a bug or have a suggestion, please open an issue or submit a pull request.
-
-## License
-
-[Specify the license here (e.g., MIT License)]
